@@ -31,3 +31,9 @@ a ||  b // Si a o b es verdadero, se cumple la función, condición
 var edad = 40
 edad++ //Incrementa el valor en 1
 edad += 2 //Incrementa x2 el valor
+
+//Ejercicio
+function solution(secreto) {
+    // Tu código aquí 👈
+    return !(secreto <= 5);
+  }
