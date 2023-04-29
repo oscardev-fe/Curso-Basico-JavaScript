@@ -9,4 +9,4 @@ function fun() {
 
 fun();
 
-console.log(apellido);
+console.log(apellido); // Dara indefinido
